@@ -39,7 +39,11 @@ The dataset includes the following fields:
 -  Unit Selling Price (BWP)
 -  Total Revenue (BWP)
 
+### Structured Sales Dataset
 
+![Initial sales dataset](sales-data-sample.png)
+
+*Figure 1: Initial sales records transferred into Excel.*
 
 
 
