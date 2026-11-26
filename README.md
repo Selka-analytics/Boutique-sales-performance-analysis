@@ -45,7 +45,43 @@ The dataset includes the following fields:
 
 *Figure 1: Initial sales records transferred into Excel.*
 
+## 4. Data Cleaning and Preparation
 
+After transferring the handwritten sales records into Microsoft Excel, I reviewed the dataset to identify inconsistencies, correct inaccurate entries and ensure that the data was suitable for analysis.
+
+### 4.1 Data Cleaning Process
+
+The following cleaning and validation activities were performed:
+
+- Product category standardization : Standardized inconsistent category names, including Dresses and Sets, to ensure uniform classification of products.
+
+- Date formatting: Standardized transaction dates into DD/MM/YYYY format to support accurate sorting and analysis across different periods.
+
+- Data verification: Cross-checked the Excel records against the original handwritten sales notebook to confirm the accuracy of the captured information.
+
+- Quantity and price validation: Reviewed product quantities and selling prices, identified incorrectly entered values and corrected them using the original notebook records.
+
+- Revenue verification: Checked revenue calculations to ensure that each product's total revenue was correctly calculated by multiplying quantity by unit selling price.
+
+- Missing value assessment: Examined the dataset for blank entries and confirmed that no missing values were identified in the required fields.
+
+- Duplicate record assessment: Reviewed the data for accidental duplicate transactions. No duplicate transactions were identified.
+
+### 4.2 Data Cleaning Evidence
+
+The following examples illustrate the corrections and validation activities performed during data preparation.
+
+### Before cleaning
+
+![Data before cleaning](sales-data-sample.png)
+
+*Figure 2 : Sales dataset before data cleaning. *
+
+### After cleaning
+
+![Data After cleaning](aftercleaning.png) 
+
+*Figure 3: Sales dataset after standardization and correction.*
 
 
 
