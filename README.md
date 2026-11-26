@@ -69,19 +69,30 @@ The following cleaning and validation activities were performed:
 
 ### 4.2 Data Cleaning Evidence
 
-The following examples illustrate the corrections and validation activities performed during data preparation.
+The screenshot below illustrate the corrections and validation activities performed during data preparation, particularly the standardization of product categories and correction of date formats.
 
 ### Before cleaning
 
 ![Data before cleaning](sales-data-sample.png)
 
-*Figure 2 : Sales dataset before data cleaning. *
+*Figure 2 : Sales dataset showing inconsistent product category names and date formats.*
 
 ### After cleaning
 
 ![Data After cleaning](aftercleaning.png) 
 
-*Figure 3: Sales dataset after standardization and correction.*
+*Figure 3: Cleaned Sales dataset showing standardized product categories and consistently formatted transaction dates.*
+
+### 4.3 Data Quality Outcome
+
+Following the cleaning and validation process, the dataset was found to contain no missing values or accidental duplicate transactions. The identified data-entry errors were corrected and the final dataset was considered accurate and consistent enough for sales performance analysis.
+
+
+### 5. Data Analysis
+to be completed in the next stage of the project.
+
+
+
 
 
 
